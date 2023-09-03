@@ -12,7 +12,7 @@ I have also been interested in Data Structures and algorithms, I have watched mo
 
 Outside of this, I have a lot of experience in developing Power BI reports in my current job which are used globally in my organisation. I have recently completed Microsoft Power Platform training and I am helping my organisation to develop some low-code applications for business use cases.
 
-Outside of work and coding, I like to spend time with my wide & dogs (Lola the springer, and Alfie the daschund).
+Outside of work and coding, I like to spend time with my wife & dogs (Lola the springer, and Alfie the daschund).
 I enjoy running and partake in my local parkrun on a saturday morning, and some additional runs during some evenings after work.
 I have a passion for learning and enjoy solving problems.
 
