@@ -1,6 +1,6 @@
 # Hi there, I'm Gerard  
 
-# I'm moving into the field of software engineering
+## I'm moving into the field of software engineering
 
 - I've been studying a part time MSc in Software Engineering at Queens University Belfast
 - I'm coming from the manufacturing section with 12 years experience, 6 of those in a senior management role.
