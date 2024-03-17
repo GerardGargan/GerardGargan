@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Node JS web app and API. I plan to deploy it on my own server at home.
 - 🌱 I’m currently learning intermediate and advanced Node JS and Java.
 - 🤔 I’m looking for help with IOT projects, I want to explore all of the cool things you can do with a Raspberry PI, where hardware meets code! This is all new to me.
-- 💬 Ask me about anything programming related. I'm coming from the manufacturing section with 12 years experience, 6 of those in a senior management role.
+- 💬 Ask me about anything programming related. I'm coming from the manufacturing sector with 12 years experience, 6 of those in a senior management role.
 - 📫 How to reach me: Linkedin - [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gerard-gargan) 
 - ⚡ Fun fact: I love to eat! I run so I can just eat some more..
 
