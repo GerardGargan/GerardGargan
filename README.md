@@ -1,13 +1,6 @@
 # Hi there, I'm Gerard  
 
-## I'm moving into the field of software engineering
-
-- I've been studying a part time MSc in Software Engineering at Queens University Belfast
-- I'm coming from the manufacturing sector with 12 years experience, 6 of those in a senior management role.
-- I'm passionate about programming - I've had a spark for it from a young age! I wished I had have persued it several years ago.
-- I'm going into my last year of the MSc and have accepted a role as a software engineer, starting in April 2024
-- I've recently built a web app and API with Node JS, Javscript, HTML and CSS.
-- I'm currently expanding on my knowledge and completing online tutorials to advance myself in the technologies
+### I'm moving into the field of software engineering
 
 - 🔭 I’m currently working on a Node JS web app and API. I plan to deploy it on my own server at home.
 - 🌱 I’m currently learning intermediate and advanced Node JS and Java.
