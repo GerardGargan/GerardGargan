@@ -1,15 +1,11 @@
 # Hi there, I'm Gerard  
 
-### I'm moving into the field of software engineering
-
 - 🔭 I’m currently working on a Node JS web app and API. I plan to deploy it on my own server at home.
 - 🌱 I’m currently learning intermediate and advanced Node JS and Java.
-- 🤔 I’m looking for help with IOT projects, I want to explore all of the cool things you can do with a Raspberry PI, where hardware meets code! This is all new to me.
+- 🤔 I’m looking to learn how to develop IOT projects, I want to explore all of the cool things you can do with a Raspberry PI, where hardware meets code! This is all new to me.
 - 💬 Ask me about anything programming related. I'm coming from the manufacturing sector with 12 years experience, 6 of those in a senior management role.
-- 📫 How to reach me: [<img align="" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](www.linkedin.com/in/gerard-gargan)
-- ⚡ Fun fact: I run so I can eat some more..!
-
-### Languages and Tools:
+- 📫 How to reach me: [<img align="" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gerard-gargan)
+- ⚡ Fun fact: I like running and playing pool/snooker
 
 ### Languages and Tools:
 
@@ -27,11 +23,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-  
 
-
-
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg
 
 <!--
 **GerardGargan/GerardGargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
