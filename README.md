@@ -1,6 +1,6 @@
 # Hi there, I'm Gerard  
 
-- 🔭 I’m currently working on a Node JS web app and API. I plan to deploy it on my own server at home.
+- 🔭 I’m just finished working on a Node JS web app and API. I've deployed it on my own server at home. Im currently working on a Java console game, similar to monopoly.
 - 🌱 I’m currently learning intermediate and advanced Node JS and Java.
 - 🤔 I’m looking to learn how to develop IOT projects, I want to explore all of the cool things you can do with a Raspberry PI, where hardware meets code! This is all new to me.
 - 💬 Ask me about anything programming related. I'm coming from the manufacturing sector with 12 years experience, 6 of those in a senior management role.
