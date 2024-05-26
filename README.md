@@ -1,17 +1,18 @@
 # Hi there, I'm Gerard  
 
-- 🔭 I’m just finished working on a Node JS web app and API. I've deployed it on my own server at home. Im currently working on a Java console game, similar to monopoly.
-- 🌱 I’m currently learning intermediate and advanced Node JS and Java.
-- 🤔 I’m looking to learn how to develop IOT projects, I want to explore all of the cool things you can do with a Raspberry PI, where hardware meets code! This is all new to me.
-- 💬 Ask me about anything programming related. I'm coming from the manufacturing sector with 12 years experience, 6 of those in a senior management role.
+- 🔭 I’m currently studying a MSc in Software Development at Queens University Belfast, part time. I've just transitioned into a Software Engineering role.
+- 🌱 I’m currently learning C#, .NET and advanced Javascript.
+- 💬 Im looking for help/mentorship within the Software Engineering world to learn new skills, particularly in C# and .NET.
 - 📫 How to reach me: [<img align="" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gerard-gargan)
-- ⚡ Fun fact: I like running and playing pool/snooker
+- ⚡ Fun fact: I like running and playing pool/snooker. I have two dogs, Lola (Springer Spaniel) and Alfie (Daschund).
 
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" align="left" width="26px" height="26px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" align="left" alt="dotnet" width="26px" height="26px"/>
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
