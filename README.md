@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying a MSc in Software Development at Queens University Belfast, part time. I've just transitioned into a Software Engineering role.
 - 🌱 I’m currently learning C#, .NET and advanced Javascript.
 - 💬 Im looking for help/mentorship within the Software Engineering world to learn new skills, particularly in C# and .NET.
-- 📫 How to reach me: [<img align="" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gerard-gargan)
+- 📫 How to reach me: Email: [ggargan01@qub.ac.uk](mailto:ggargan01@qub.ac.uk) Linkedin: [<img align="" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gerard-gargan)
 - ⚡ Fun fact: I like running and playing pool/snooker. I have two dogs, Lola (Springer Spaniel) and Alfie (Daschund).
 
 ### Languages and Tools:
