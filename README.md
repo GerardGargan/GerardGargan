@@ -3,7 +3,7 @@
 - 🔭 I'm a software engineer based in Belfast. I’m currently studying a MSc in Software Development at Queens University Belfast, part time.
 - 🌱 I’m currently learning C#, .NET and advanced Javascript. 
 - 💬 Im looking for help/mentorship within the Software Engineering world to learn new skills, particularly in C# and .NET and React.
-- 📫 How to reach me: Email: [ggargan01@qub.ac.uk](mailto:ggargan01@qub.ac.uk) or on Linkedin: [<img align="" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gerard-gargan)
+- 📫 How to reach me: Email: [ggargan01@qub.ac.uk](mailto:ggargan01@qub.ac.uk) or on Linkedin: [https://www.linkedin.com/in/gerard-gargan](https://www.linkedin.com/in/gerard-gargan)
 - ⚡ Fun fact: I like running and playing pool/snooker.
 
 ### Languages and Tools:
