@@ -1,11 +1,16 @@
-# Hi there, I'm Gerard  
+# Hi there, I'm Gerard 👋  
 
-- 🔭 I'm a software engineer based in Belfast. I’m currently studying a MSc in Software Development at Queens University Belfast, part time.
-- 🌱 I’m currently developing my skills with C#, .NET Core for the backend and Javascript/React for the frontend.
-- 💬 Im looking for help/mentorship within the Software Engineering world to learn new skills, particularly in C#, .NET and React.
-- 📫 How to reach me: Email: [ggargan01@qub.ac.uk](mailto:ggargan01@qub.ac.uk) or on Linkedin: [https://www.linkedin.com/in/gerard-gargan](https://www.linkedin.com/in/gerard-gargan)
-- ⚡ Fun fact: I like running and playing pool/snooker.
+🎓 **MSc Software Development Student** at Queen's University Belfast (part-time)  
+💻 **Full-Stack Developer** based in Belfast, specialising in web and mobile applications  
 
+---
+
+## 🌟 About Me  
+- 🔭 I’m passionate about solving real-world problems with technology and creating innovative software solutions.  
+- 🌱 Currently, I’m building a **React Native mobile app** with a **.NET Core (C#) API backend**.  
+- 💡 I enjoy collaborating with stakeholders to understand their needs and deliver impactful, user-friendly solutions.  
+
+---
 ### Languages and Tools:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" align="left" width="26px" height="26px"/>
