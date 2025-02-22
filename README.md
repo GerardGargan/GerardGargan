@@ -1,16 +1,12 @@
-# Hi there, I'm Gerard 👋  
+### Hello there 👋
 
-🎓 **MSc Software Development Student** at Queen's University Belfast (part-time)  
-💻 **Full-Stack Developer** based in Belfast, specialising in web and mobile applications  
+#### A Full-Stack Developer based in Belfast, NI
 
----
+- ⚙️ I use daily: `C#`, `.NET`, `Javascript`, `React`, `React Native`, `CSS`
+- 🌍 I build web and mobile applications
+- 💅 I'm currently working on a react native mobile app called SopPro, check it out here -> https://github.com/GerardGargan/SopPro
+- 💬 `ping` me about **react**, **.NET**, **javscript**, **system architecture**, **design thinking**
 
-## 🌟 About Me  
-- 🔭 I’m passionate about solving real-world problems with technology and creating innovative software solutions.  
-- 🌱 Currently, I’m building a **React Native mobile app** with a **.NET Core (C#) API backend**.  
-- 💡 I enjoy collaborating with stakeholders to understand their needs and deliver impactful, user-friendly solutions.  
-
----
 ### Languages and Tools:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" align="left" width="26px" height="26px"/>
