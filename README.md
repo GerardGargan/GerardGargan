@@ -5,7 +5,6 @@
 - ⚙️ I use daily: `C#`, `.NET`, `Javascript/Typescript`, `React`, `React Native`, `CSS`
 - 🌍 I build web and mobile applications
 - 💅 I'm currently working on a react native mobile app called SopPro, check it out here -> https://github.com/GerardGargan/SopPro
-- 💬 `ping` me about **react**, **.NET**, **javscript**, **system architecture**, **design thinking**
 
 ### Languages and Tools:
 
