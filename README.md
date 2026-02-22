@@ -4,7 +4,7 @@
 
 - ⚙️ I use daily: `C#`, `.NET`, `Javascript/Typescript`, `React`, `React Native`, `CSS`
 - 🌍 I build web and mobile applications
-- 💅 I'm currently working on a react native mobile app called SopPro, check it out here -> https://github.com/GerardGargan/SopPro
+- 💅 I'm currently working on a number of hobby projects including building a custom canvas component for use in some of my other projects.
 
 ### Languages and Tools:
 
