@@ -1,43 +1,41 @@
-### Hello there 👋
+# Hey, I'm Gerard 👋
 
-#### A Full-Stack Developer based in Belfast, NI
+Full-Stack Developer based in Belfast, NI. I work across .NET/C# on the backend,
+React and React Native on the front, Azure in the middle. I came to software via
+a decade in operations and senior management, which explains why I tend to gravitate
+towards problems that actually cost businesses time or money. I get a lot of
+satisfaction from automating tasks that used to eat people's time, or building
+applications and dashboards that give them better visibility over their own data.
 
-- ⚙️ I use daily: `C#`, `.NET`, `Javascript/Typescript`, `React`, `React Native`, `CSS`
-- 🌍 I build web and mobile applications
-- 💅 I'm currently working on a number of hobby projects including building a custom canvas component for use in some of my other projects.
+🌐 [gerardgargan.com](https://gerardgargan.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gerard-gargan/)
 
-### Languages and Tools:
+<br>
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />          
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" align="left" width="26px" height="26px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" align="left" alt="dotnet" width="26px" height="26px"/>
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+## 🛠️ Tech I work with
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+**Frontend**  
+![React](https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css)
 
+**Backend**  
+![Backend](https://skillicons.dev/icons?i=dotnet,cs,nodejs,postgres)
 
-<!--
-**GerardGargan/GerardGargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud & DevOps**  
+![DevOps](https://skillicons.dev/icons?i=azure,docker,github,githubactions)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Some things I've built
 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Contrast Revival**](https://gerardgargan.com/projects/contrast-revival.html) | Booking + smart lock integration over webhooks — generates time-limited door codes automatically | C# · .NET · Azure Container Apps |
+| [**SopPro**](https://gerardgargan.com/projects/soppro.html) | Cross-platform mobile app for SOP management with AI-assisted drafting, approval workflows, and version control | React Native · .NET · Azure |
+| [**Kev-In**](https://gerardgargan.com/projects/kev-in.html) | Fun AI Christmas poster generator — upload a photo, pick a movie, get a custom poster starring yourself | Next.js · TypeScript · Gemini |
+| [**Data Validation Tool**](https://gerardgargan.com/projects/data-validation.html) | Automated validation across 72 global sites — cut a 2-day manual process to minutes | C# · .NET |
+
+<br>
+
+## 📊 GitHub Stats
+
+![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardGargan&show_icons=true&hide_border=true&hide_rank=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardGargan&layout=compact&hide_border=true&theme=default)
