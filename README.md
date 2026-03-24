@@ -9,7 +9,6 @@ applications and dashboards that give them better visibility over their own data
 
 🌐 [gerardgargan.com](https://gerardgargan.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gerard-gargan/)
 
-<br>
 
 ## 🛠️ Tech I work with
 
@@ -22,7 +21,6 @@ applications and dashboards that give them better visibility over their own data
 **Cloud & DevOps**  
 ![DevOps](https://skillicons.dev/icons?i=azure,docker,github,githubactions)
 
-<br>
 
 ## 🚀 Some things I've built
 
@@ -33,7 +31,6 @@ applications and dashboards that give them better visibility over their own data
 | [**Kev-In**](https://gerardgargan.com/projects/kev-in.html) | Fun AI Christmas poster generator — upload a photo, pick a movie, get a custom poster starring yourself | Next.js · TypeScript · Gemini |
 | [**Data Validation Tool**](https://gerardgargan.com/projects/data-validation.html) | Automated validation across 72 global sites — cut a 2-day manual process to minutes | C# · .NET |
 
-<br>
 
 ## 📊 GitHub Stats
 
