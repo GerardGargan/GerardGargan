@@ -2,10 +2,8 @@
 
 Full-Stack Developer based in Belfast, NI. I work across .NET/C# on the backend,
 React and React Native on the front, Azure in the middle. I came to software via
-a decade in operations and senior management, which explains why I tend to gravitate
-towards problems that actually cost businesses time or money. I get a lot of
-satisfaction from automating tasks that used to eat people's time, or building
-applications and dashboards that give them better visibility over their own data.
+a decade in operations and senior management. I get a lot of
+satisfaction from automating tasks that save people time, improve data visiblity, and aid better decision making.
 
 🌐 [gerardgargan.com](https://gerardgargan.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gerard-gargan/)
 
